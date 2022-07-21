@@ -1,5 +1,4 @@
 <h1>Calculadora-POO</h1> 
-### App Calculadora aplicando conhecimentos de Programação Orientada a Objetos em JAVA.
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=Java&message=1.8.0_291&color=orange&style=for-the-badge&logo=java"/>
@@ -27,7 +26,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Programa de calculadora utlizando conhecimentos em POO na sua construção. No console só precisa digitar os dois numeros que se deseja fazer a operação e o seu operador, sem espaços e sem saltar linhas. Exemplos de sintaxe: 
+  Programa de calculadora utlizando conhecimentos de POO em Java. No console só precisa digitar os dois numeros que se deseja fazer a operação e o seu operador, sem espaços e sem saltar linhas. Exemplos de sintaxe: 
 </p>
 
 ~~~java
