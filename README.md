@@ -73,6 +73,18 @@ public class Adicao implements Operacao{
 }
 ~~~
 
+~~~java
+package Procedimentos;
+
+public class Multiplicacao implements Operacao{
+
+    @Override
+    public int calculo(int num, int num2) {
+        return num * num2;
+    }
+}
+~~~
+
 <p align="justify">
   Classe "Operandos" engloba os operadores que implementei no meu código.
   </p>
