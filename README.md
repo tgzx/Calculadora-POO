@@ -1,8 +1,5 @@
-# Calculadora-POO
-# App Calculadora aplicando conhecimentos de Programação Orientada a Objetos em JAVA.
-
-
-<h1>Titulo ou Arte do Projeto</h1> 
+<h1>Calculadora-POO</h1> 
+### App Calculadora aplicando conhecimentos de Programação Orientada a Objetos em JAVA.
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=Java&message=1.8.0_291&color=orange&style=for-the-badge&logo=java"/>
@@ -48,7 +45,7 @@ ou
 
 ## Imagens
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+> Sem prints por enquanto.
 
 ## Código
 <p align="justify">
@@ -178,7 +175,7 @@ No terminal, clone o projeto:
 git clone https://github.com/tgzx/Calculadora-POO.git
 ~~~
 
-Você pode rodar direto no CMD ou em uma IDE.b 
+Você pode rodar direto no CMD ou em uma IDE.
 
 ## Desenvolvedores/Contribuintes :octocat:
 
@@ -189,4 +186,4 @@ Você pode rodar direto no CMD ou em uma IDE.b
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2022 - Calculadora-POO
