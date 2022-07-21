@@ -48,7 +48,7 @@ ou
 
 ## Código
 <p align="justify">
-  As classes do pacote "Procedimentos" (Adição, Subtração, etc) implementam a interface "Operacao" fazendo com o que código ficasse mais limpo e menos bagunçado.
+  As classes do pacote "Procedimentos" (Adição, Subtração, etc) implementam a interface "Operacao" fazendo com que o código fique mais limpo e menos bagunçado.
   </p>
   
 ~~~java
