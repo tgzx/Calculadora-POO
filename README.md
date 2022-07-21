@@ -26,7 +26,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Programa de calculadora utlizando conhecimentos de POO em Java. No console só precisa digitar os dois numeros que se deseja fazer a operação e o seu operador, sem espaços e sem saltar linhas. Exemplos de sintaxe: 
+  Programa de calculadora utilizando conhecimentos de POO em Java. No console só precisa digitar os dois numeros que se deseja fazer a operação e o seu operador, sem espaços e sem saltar linhas. Exemplos de sintaxe: 
 </p>
 
 ~~~java
