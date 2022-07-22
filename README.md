@@ -8,6 +8,8 @@
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftgzx%2FCalculadora-POO&count_bg=%232B1A82&title_bg=%235C66AE&icon=github.svg&icon_color=%23E1E1E1&title=Views&edge_flat=false"/></a>
+
 > Status do Projeto: :heavy_check_mark: (Concluído)
 
 ### Tópicos 
