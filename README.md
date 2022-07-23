@@ -61,7 +61,7 @@ public interface Operacao {
 ~~~
 
 <p align="justify">
-  As classes que implementam "Operacao" têm o mesmo padrão, eles retornam uma operação de acordo com o operador que foi informado. Alguns exemplos:
+  As classes que implementam "Operacao" têm o mesmo padrão, eles retornam uma operação de acordo com o operador que foi capurado na classe "Operandos" no pacote "Comparadores". Alguns exemplos:
   </p>
   
 ~~~java
@@ -89,7 +89,7 @@ public class Multiplicacao implements Operacao{
 ~~~
 
 <p align="justify">
-  Classe "Operandos" engloba os operadores que implementei no meu código.
+  Classe "Operandos" engloba os operadores que implementei no meu código. Essa classe verifica qual o operador foi informado na String "res" lá no main.
   </p>
   
 ~~~java
