@@ -12,7 +12,6 @@ public class CheckRes {
             cont2 = cont;
         }
 
-
         //----- Pega o PRIMEIRO numero -----//
         char[] numCompleto = new char[cont];
         for (int i = 0; i < cont; i++) {

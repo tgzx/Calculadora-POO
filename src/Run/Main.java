@@ -12,22 +12,27 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         CheckRes resFinal = new CheckRes();
         boolean loop = true;
+        int cont = 0;
+        System.out.println("** CALCULADORA **");
         while (loop){
-            System.out.println("** CALCULADORA **");
+            if (cont > 0){
+                Clear.ClearScreen(0);
+            }
             String res = scanner.nextLine();
             CheckRes.checkResValues(res);
             Object[] resFinal2 = resFinal.comparador(res);
             int num1 = (int) resFinal2[0];
             char op = (char) resFinal2[1];
             int num2 = (int) resFinal2[2];
-            Operacao operacao = Operandos.converter(op);
+            Operacao operador = Operandos.converter(op);
             Clear.ClearScreen();
             try{
-                System.out.print(ANSI_ITALIC + ANSI_GREEN + res + ANSI_WHITE + " = " + operacao.calculo(num1, num2));
+                System.out.print(ANSI_ITALIC + ANSI_GREEN + res + ANSI_WHITE + " = " + operador.calculo(num1, num2));
                 Clear.ClearScreen("");
             } catch (RuntimeException e){
                 System.out.println(e.getMessage());
             }
+            cont++;
         }
     }
 }
