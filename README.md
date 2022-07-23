@@ -131,7 +131,9 @@ public class CheckRes {
         char[] resChar = res.toCharArray();
         int cont = 0;
         int cont2= 0;
-
+        
+        //----- Descobre a primeira sequencia de numeros, o próximo char vai ser o nosso -----//
+        //----- operador, e o que vier depois do char é a segunda sequencia de numeros.  -----//
         for (int i = 0; i < resChar.length && "1234567890".contains(""+resChar[i]); i++) {
             cont++;
             cont2 = cont;
