@@ -61,7 +61,7 @@ public interface Operacao {
 ~~~
 
 <p align="justify">
-  As classes que implementam "Operacao" têm o mesmo padrão, eles retornam uma operação de acordo com o operador que foi capurado na classe "Operandos" no pacote "Comparadores". Alguns exemplos:
+  As classes que implementam "Operacao" têm o mesmo padrão, eles retornam uma operação de acordo com o operador que foi capturado na classe "Operandos" no pacote "Comparadores". Alguns exemplos:
   </p>
   
 ~~~java
