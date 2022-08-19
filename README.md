@@ -1,7 +1,7 @@
 <h1>Calculadora-POO</h1> 
 
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=Java&message=1.8.0_291&color=orange&style=for-the-badge&logo=java"/>
+  <img src="http://img.shields.io/static/v1?label=Java&message=8&color=orange&style=for-the-badge&logo=java"/>
   <img src="http://img.shields.io/static/v1?label=ANSI&message=A%20little%20bitter&color=blue&style=for-the-badge&logo=ANSI"/>
   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
